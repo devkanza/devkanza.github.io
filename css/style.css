@@ -1,3 +1,13 @@
 .skill-icon{
     color: #283593;
 }
+
+footer{
+    padding-bottom: 0 !important;
+}
+
+.information > li{
+    border-bottom: 1px #e0e0e0 solid;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+}
